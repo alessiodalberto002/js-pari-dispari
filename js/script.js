@@ -35,3 +35,8 @@ function separaNumeri(array) {
     return { pari, dispari, sommaPari, sommaDispari };
 }
 
+
+const numeri = [12, 7, 23, 8, 15, 4, 19, 22, 31, 6, 
+                14, 9, 27, 18, 5, 30, 11, 25, 2, 17];
+
+separaNumeri(numeri);
