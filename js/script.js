@@ -1,4 +1,4 @@
-function separaNumeri(array) {
+function separaNumeri() {
   // ARRAY PER NUMERI PARI E DISPARI //
   const pari = [];
   const dispari = [];
